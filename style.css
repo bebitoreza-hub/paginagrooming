@@ -14,7 +14,7 @@ color:#333;
 /* BANNER SUPERIOR */
 
 .banner{
-background-image: url("imagenes/baner.jpg");
+background-image: url(baner.jpg);
 background-size: cover;
 background-position: center;
 height:250px;
